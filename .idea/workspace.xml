@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670ee31b-7591-4c94-9994-0abd9d956652" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="670ee31b-7591-4c94-9994-0abd9d956652" name="Changes" comment="'Удаление папок с фотографиями'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,12 +110,26 @@
       <option name="presentableId" value="Default" />
       <updated>1744620743167</updated>
       <workItem from="1744620744514" duration="26766000" />
-      <workItem from="1744651321170" duration="4523000" />
+      <workItem from="1744651321170" duration="4829000" />
     </task>
+    <task id="LOCAL-00001" summary="'Удаление папок с фотографиями'">
+      <option name="closed" value="true" />
+      <created>1744656158124</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744656158124</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="первый коммит" />
+    <MESSAGE value="'Удаление папок с фотографиями'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'Удаление папок с фотографиями'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PARS_PICTURES$mixin_save.coverage" NAME="mixin_save Coverage Results" MODIFIED="1744645816403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MIXIN" />
