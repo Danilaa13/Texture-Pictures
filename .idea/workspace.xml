@@ -1,0 +1,1560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="670ee31b-7591-4c94-9994-0abd9d956652" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PARS_PICTURES.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Cеро-коричневый тёмный U740 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Cеро-коричневый тёмный U740 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Cеро-коричневый тёмный U740 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Абрикос нюд U232 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Абрикос нюд U232 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Акапулько F685 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Акация Лэйклэнд светлая H1277 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Акация Шеффилд натуральный H1242 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Аква голубой U500 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Алебастр белый U104 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Альпийское озеро U504 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Алюминий мелкоматированный F502 ST7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ангора серая U705 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ангора серая U705 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Арктика серый U788 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Базальтино терра F352 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бежевый песок U156 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Альпийский W1100 PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Альпийский W1100 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Альпийский W1100 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Альпийский сплошной W1101 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Альпийский сплошной W1101 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Альпийский сплошной W1101 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум W1000 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум W1000 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум W1000 ST38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум W1000 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум W1000 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум W1000 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум сплошной W1001 PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый Премиум сплошной W1001 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый классический W960 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый классический W960 ST7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый кристалл W990 ST7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Белый кристалл W990 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Берёза песочная H1732 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бетон Чикаго светло-серый F186 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бетон Чикаго светло-серый сплошной F1861 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бетон Чикаго тёмно-серый F187 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бирюза зелёная U633 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бронза браш даймонд F8930 R2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бук луговой H1910 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Бургундский красный U311 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Вишня Локарно H1636 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Вишня Локарно H1636 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Гикори натуральный H3730 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Голубой горизонт U522 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Гранит Кашиа светло-серый F031 ST78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Гранит Кашиа серый F032 ST78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дакар серый U717 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Делфт голубой U525 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Деним голубой U540 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Диамант серый U963 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Диамант серый U963 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Диамант серый сплошной U9631 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дикий дуб натуральный H1318 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Доппиа Альпийский белый-алюминий W8904 R1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Доппиа чёрный глянцевый матовый U8922 R1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Доппиа чёрный матовый  глянцевый U8921 R1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Доппиа чёрный-алюминий U8920 R1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Древесина винтаж натуральная H197 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Бардолино натуральный H1145 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Барония светлый H1362 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Бельмонт коричневый H1303 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Виченца H3157 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Виченца H3157 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Виченца белёный H3152 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Виченца светлый H3165 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Виченца серый H3158 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Виченца серый H3158 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс белый H1176 ST37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс белый Q1176 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс коричневый H3180 TM12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс коричневый H3180 TM37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс натуральный H1180 ST37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс натуральный Q1180 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс олово H3176 ST37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс олово Q3176 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс табак H1181 ST37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Галифакс табак Q1181 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гамильтон натуральный H3303 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун песочный H3309 ST28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун песочный Q3309 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун сепия H3342 TM12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун сепия H3342 TM28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун серо-бежевый H3326 ST28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун серо-бежевый Q3326 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун табак H3325 ST28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Гладстоун табак Q3325 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Давенпорт натуральный светлый H3359 ST32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Давенпорт натуральный светлый Q3359 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Давос натуральный H3131 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Давос трюфель H3133 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Давос трюфель H3133 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Денвер трюфель H1399 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кайзерсберг H3349 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Канзас коричневый H1113 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кардифф коричневый H2409 G8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла белый H1384 ST40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла белый Q1384 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла каштановый H1369 ST40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла каштановый Q1369 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла коричневый H1386 ST40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла коричневый Q1386 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла натуральный H1385 ST40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла натуральный Q1385 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла натуральный светлый H1367 ST40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Каселла натуральный светлый Q1367 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кендал коньяк H3398 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кендал коньяк H3398 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кендал натуральный H3170 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кендал натуральный H3170 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кендал промасленный H3171 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кендал промасленный H3171 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Корбридж натуральный H3395 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Корбридж натуральный H3395 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Корбридж серый H3156 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Корбридж серый H3156 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кунео белёный H3311 ST28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кунео белёный H3311 TM12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кунео белёный H3311 TM28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кунео белёный Q3311 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кунео коричневый H3317 ST28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Кунео коричневый Q3317 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Ланкастер натуральный H3368 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Лоренцо бежево-серый H3146 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Лоренцо бежево-серый H3146 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Мультиплекс H8911 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Небраска натуральный H3331 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Небраска серый H3332 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Норидж H3003 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Орлеанский коричневый H1379 ST36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Орлеанский песочно-бежевый H1377 ST36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Сакраменто коричневый H1142 ST36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Сакраменто серый H1143 ST36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Санта-Фе винтаж H1330 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Термо чёрно-коричневый H1199 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Тонсберг коричневый H309 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Тонсберг натуральный H305 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Уайт-Ривер песочно-бежевый H1312 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Уайт-Ривер серо-коричневый H1313 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Хантон светлый H2032 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Хантон тёмный H2033 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Чарльстон тёмно-коричневый H3154 ST36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Шерман антрацит H1346 ST32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Шерман антрацит Q1346 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Шерман коньяк коричневый H1344 ST32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Шерман коньяк коричневый Q1344 RO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб Шпрее серо-бежевый H1357 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Дуб наборный H193 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Жёлтый бриллиант U114 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Жёлтый песок U125 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Жёлтый песок U125 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёная агава U645 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный еловый U699 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный еловый U699 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный камень U665 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный камень U665 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный киви U626 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный лес U606 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный лимон U630 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный оливковый U640 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный оливковый U640 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный фисташковый U608 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный фисташковый U608 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный шалфей U638 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Зелёный эвкалипт U604 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Индиго синий U599 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Индиго синий U599 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камель бежевый U216 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Гави серо-коричневый F251 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Кальвия песочно-серый F676 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Кальвия светло-серый F675 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Металл антрацит F121 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Пьетра Гриджиа антрацит F205 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Пьетра Гриджиа чёрный F206 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Пьетра Гриджиа чёрный F206 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Пьетра Фанано светло-серый F230 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Камень Пьетра Фанано серый F208 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Канвас антрацит F635 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Канвас антрацит F635 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Канвас серый F634 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Канвас серый F634 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Карамель нюд U830 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Карат бежевый U115 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Карри жёлтый U163 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кашемир серый U702 PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кашемир серый U702 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кашемир серый U702 ST78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кашемир серый U702 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кашемир серый сплошной U7021 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Каштан Кентукки песочный H1710 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Керамика Тессина крем F221 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Керамика антрацит F311 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Клён Мандаль натуральный H3840 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Клён сахарный шампань H3860 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кобра бронза F323 ST20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кокоболо натуральный H3012 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Коттон бежевый U113 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Красно-коричневый U335 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Красно-коричневый U335 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Красный гранат U399 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Красный гранат U399 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Красный китайский U321 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Крем бежевый U222 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кубанит брашированный F434 ST20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кубанит серый U767 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Кубанит серый U767 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лава серая U741 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лес чёрный U998 ST38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лиловый U420 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лиловый U420 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Линия чёрная                                F8980 LI.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лиственница горная антрацит H3406 ST38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лиственница горная коричневая термо H3408 ST38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лиственница горная натуральная H3409 ST38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лён антрацит F433 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лён белый F422 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Лён терра F424 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Металл брашированный бронзовый F528 ST20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Металл брашированный золотистый F527 ST20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Металлик Файнлайн антрацит H3190 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Металлик сталь F500 ST20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Миндаль бежевый U211 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Кандела cветло-серый F243 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Кандела cветло-серый F243 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Кандела антрацит F244 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Кандела антрацит F244 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Кремона F229 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Кристалл F800 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Леванто белый F812 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Сан-Лука F108 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Сиена серый F095 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мрамор Чиполлино серый F093 ST7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Мультиплекс чёрный H8955 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Нежный чёрный U899 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Нежный чёрный сплошной U8991 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ниагара зелёный U646 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Оникс серый U960 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Оникс серый U960 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Оникс серый U960 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Оранжевый U332 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Вармия коричневый H1307 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Дижон натуральный H3734 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Карини натуральный H3710 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Карини натуральный H3710 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Линкольн H1714 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Мультиплекс H8912 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Парона H1715 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Пацифик натуральный H3700 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Орех Пацифик табак H3702 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Пихта Брамберг H1487 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Пихта Неброди рустикальная H011 G8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Платиновый белый W980 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Платиновый белый W980 ST7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Розовый антик U325 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Светло-серый U708 PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Светло-серый U708 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Светло-серый U708 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Светло-серый сплошной U7081 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Светло-серый сплошной U7081 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серая галька U201 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серая галька U201 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серая галька U201 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серебристый матовый F765 ST20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый асфальт U732 PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый асфальт U732 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый асфальт U732 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый дымчатый U775 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый камень U727 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый монументальный U780 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый монументальный U780 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый перламутровый U763 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый перламутровый U763 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый уголь U968 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый уголь U968 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Серый уголь U968 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сиена оранж U350 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий балтийский U545 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий балтийский U545 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий дымчатый U502 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий космос U575 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий космос U575 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий океан U565 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий океан U565 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синий скандинавский U505 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синяя глубина U560 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Синяя ночь U570 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сланец Скиваро F235 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сланец Скиваро F235 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сланец Скиваро светло-серый F234 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сланец Чуприя F237 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сланец Чуприя F237 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сосна Аланд белая H3430 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сосна Аланд полярная H3433 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сосна Касцина H1401 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Спаркл Грэйн белый F486 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сталь Серебро антрацит F620 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Сталь браш даймонд F8931 R2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Текстиль бежевый F416 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Текстиль серый F417 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Терраццо Триест серый F021 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Титанит антрацит F228 ST78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Титанит антрацит F228 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Титанит песочно-бежевый F226 ST78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Титанит песочно-бежевый F226 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Титанит серый F227 ST78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Травертин Кале F052 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Травертин Маргарита F030 ST75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Трюфель коричневый U748 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Трёхслойная оптика горная лиственница H8913 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Трёхслойная оптика коричневая термо          H8906 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Тёмно-коричневый U818 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Файнлайн белый H3195 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Файнлайн средне-серый H3197 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Файнлайн тёмно-серый H3198 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Фарфор белый W1200 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ферро бронза F302 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Фиолетовый U430 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Фламинго розовый U363 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Флитвуд белый H3450 ST22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Фьёрд зелёный U636 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Хромикс белый F637 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Хромикс серебро F638 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Цитрусовый жёлтый U131 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрно-коричневый U989 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 PG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 ST20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 ST7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 ST76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 ST78.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 ST87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 TM12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 TM28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный U999 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный графит U961 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный графит U961 ST7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Чёрный сплошной U9991 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Шёлк серый U707 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Эвкалипт натуральный H3041 TM12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Эвкалипт тёмно-коричневый H3043 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ярко-красный U323 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ярко-серый U750 PM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ярко-серый U750 ST9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ярко-серый U750 TM9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ясень Абано антрацит H1228 TM12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ясень Абано коричневый H1227 TM12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ясень Лугано натуральный светлый H1204 TM22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ясень Наварра H1250 ST36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ясень Севилья H1223 ST19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ясень Тронхейм H1225 ST10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EGGER/EGGER_images/Ясень Тронхейм H1225 ST12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0101 BS Белый Фасадный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0101 PE Белый Фасадный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0110 SM Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0112 AF Серый Камень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0112 AG Серый Камень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0112 AM Серый Камень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0112 BS Серый Камень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0112 PE Серый Камень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0112 UM Серый Камень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0125 BS Королевский Синий.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0132 BS Оранжевый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0134 BS Солнечный Свет.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0162 AF Серый Графит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0162 BS Серый Графит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0162 PE Серый Графит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0164 AG Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0164 AM Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0164 BS Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0164 HG Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0164 PD Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0164 PD;PE Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0164 PE Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0166 AF Базальт.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0166 BS Базальт.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0166 UM Базальт.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0171 AF Серый Шифер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0171 BS Серый Шифер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0171 HG Серый Шифер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0171 MG Серый Шифер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0171 PE Серый Шифер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0171 UM Серый Шифер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 AF Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 AF;SL Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 AG Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 AM Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 BS Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 MG Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 PD Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 PD;PE Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 PE Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0190 UM Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0191 BS Холодный Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0191 MG Холодный Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0191 SU Холодный Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0197 SU Шиншилла Серая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0244 AF Бензин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0244 SU Бензин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0301 SU Капучино.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0344 BS Вишня.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0344 PE Вишня.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0375 BS Клен.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0375 PE Клен.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0381 BS Бук классический.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0381 PE Бук классический.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0514 AG Слоновая Кость.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0514 PE Слоновая Кость.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0515 PE Песочный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0522 PE Бежевый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0540 PE Серый Манхеттен.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0564 HG Миндаль.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0564 PE Миндаль.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0729 BS Орех.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0729 PE Орех.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0740 PE Дуб Горный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0854 BS Венге.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0854 PE Венге.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/0881 PE Алюминий.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/1700 PE Стальной Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/1715 BS Береза.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/1912 BS Ольха.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/3025 PE Light Vintage Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/3025 SN Light Vintage Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/4298 SU Ателье Светлое.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/4298 UE Ателье Светлое.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/4299 SU Ателье Темное.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/4299 UE Ателье Темное.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5194 SN Дуб Винтаж Оксид.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5500 SU Вяз Натуральный Благородный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5501 SN Дуб Славония.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5527 FP Дуб Каменный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5527 SN Дуб Каменный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5529 SN Орегон.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5981 AF Кашемир.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5981 BS Кашемир.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5981 MG Кашемир.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5981 PD Кашемир.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5981 PD;BS Кашемир.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5982 BS Мидия.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5994 SU Альби голубой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/5994 UM Альби голубой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/6299 AF Кобальт Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/6299 AM Кобальт Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/6299 BS Кобальт Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/6299 HG Кобальт Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/6299 UM Кобальт Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7031 BS Кремовый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 AF Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 AG Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 AM Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 HG Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 MG Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 RS Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 SU Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7045 UM Сатин.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7063 SU Пастельный Зеленый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7113 BS Красный Чили.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7166 BS Латте.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7166 HG Латте.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7181 BS Темный шоколад.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7190 BS Зеленая Мамба.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/7648 SN Венге Винтаж.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8100 SM Белый Жемчуг.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8197 PE Platinum Vintage Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8431 SN Fine Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8533 BS Макиато.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8548 SN Файнлайн Мокка.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8681 SU Белый Бриллиант.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 AF Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 AG Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 AM Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 BS Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 HG Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 MG Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 PD Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 PD;BS Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 RS Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 SU Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8685 UM Белый Снег.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8921 BS Дуб Феррара.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8953 SU Орех Тьеполо.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8984 AF Морской Синий.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8984 BS Морской Синий.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/8995 SN Коко Бола.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/9551 BS Красный Оксид.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/9561 BS Зеленый Оксид.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/9614 BS Орех Алпайн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/9763 BS Венге Луизиана.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/AL01  Алюминий Брашированный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/AL03  Сталь Брашированная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/AL04  Золото Брашированное.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/AL05  Медь Брашированная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/AL06  Бронза Брашированная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/AL08  Титан брашированный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K001 PW Дуб Крафт Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K002 FP Дуб Крафт Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K002 PW Дуб Крафт Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K003 FP Дуб Крафт Золотой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K003 PW Дуб Крафт Золотой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K004 PW Дуб Крафт Табачный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K005 PW Дуб Урбан Ойстер.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K006 PW Дуб Урбан Янтарный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K007 PW Дуб Урбан Кофейный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K008 PW Орех Селект Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K009 PW Орех Селект Темный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K010 SN Сосна Лофт Белая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K012 SU Бук Артизан Перламутровый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K013 SU Бук Артизан Песочный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K015 PW Морское Дерево Винтаж.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K016 PW Морское Дерево Карбон.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K016 SU Морское Дерево Карбон.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K017 PW Вяз Либерти Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K018 PW Вяз Либерти Дымчатый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K019 PW Вяз Либерти Серебряный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K020 PW Орех Селект Каминный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K021 SN Блэквуд Ячменный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K022 SN Блэквуд Сатиновый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K023 BS Венато.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K023 SU Венато.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K023 SU;SQ Венато.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K028 SU Портланд.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K029 SU Блоквуд Льняной.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K030 SU Блоквуд Ява.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K076 PW Дуб Экспресив Песочный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K078 PW Вишня Риверсайд Темная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K079 PW Дуб Клабхаус Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K080 PW Дуб Приморский Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K081 PW Дуб Приморский Сатиновый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K082 PW Дуб Бурбон.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K083 SN Артвуд Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K084 SN Артвуд Темный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K085 PW Гикори Рокфорд Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K086 PW Гикори Рокфорд Натуральный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K087 PW Гикори Рокфорд Темный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K088 PW Скандинавское Дерево Белое.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K089 PW Скандинавское Дерево Серое.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K090 PW Дуб Экспресив Бронзовый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K091 FP Дуб Портерхаус Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K092 FP Дуб Портерхаус Темный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K093 SL Мрамор Имперадор Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K095 SU Мрамор Терраццо Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K096 AF Глиняный Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K096 SU Глиняный Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K097 SU Сумеречный Голубой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K097 UM Сумеречный Голубой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K098 SU Керамический Красный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K105 FP Дуб Эндгрейн Необработанный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K105 PW Дуб Эндгрейн Необработанный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K107 FP Дуб Эндгрейн Элегантный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K107 PW Дуб Эндгрейн Элегантный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K200 RS Бетон Светло-Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K201 RS Бетон Темно-Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K203 PE Гранит Антрацит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K204 PE Гранит Классический.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K205 RS Бетон Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K206 PE Орех Портерхаус.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K207 RS Галактика Серая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K209 RS Известняк Кремовый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K210 PE Кремень Черный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K212 PA Мрамор Королевский Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K213 RS Тиволи Темный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K214 RS Тиволи Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K215 BS Дюна Белая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K217 AF Андромеда Белая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K217 GG Андромеда Белая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K217 GM Андромеда Белая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K217 GM;GG Андромеда Белая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K218 AF Андромеда Черная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K218 GG Андромеда Черная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K218 GM Андромеда Черная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K218 GM;GG Андромеда Черная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K2737 PW Cotta Cremona Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K2738 BS Torro Cremona Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K2738 FP Torro Cremona Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K2738 PW Torro Cremona Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K2738 PW;PE;FP Torro Cremona Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K2739 BS Cannolo Cremona Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K2739 PW Cannolo Cremona Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K349 BS Шелковый Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K349 RT Шелковый Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K350 BS Бетонный Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K350 RT Бетонный Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K351 RT Ржавый Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K352 BS Железный Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K352 RT Железный Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K353 BS Угольный Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K353 RT Угольный Kамень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K354 PW Дуб Гранж Колониальный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K355 PW Дуб Гранж Платиновый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K356 PW Дуб Гранж Песочный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K357 PW Дуб Кастелло Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K358 PW Дуб Кастелло Медовый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K359 PW Дуб Кастелло Бренди.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K360 PW Дуб Харбор Винтажный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K361 PW Дуб Харбор Золотой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K365 FP Дуб Эвок Прибрежный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K365 PW Дуб Эвок Прибрежный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K366 PW Дуб Эвок Окаменелый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K367 PH Навона Кремовая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K368 PH Мрамор Атлантический Серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K369 PH Туманность Небьюла.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K409 BS Black Pietra Marble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K512 SU Розовый натуральный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K513 SU Маршмеллоу.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K514 SU Дип Сахара.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K515 SU Красный пряный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K516 SU Тоффи.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K517 SU Лазурно-голубой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K518 SU Прибрежный голубой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K519 SU Мышиный серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K520 BS Темный изумруд.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K520 SU Темный изумруд.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K521 SU Дымчато-зеленый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K522 PE Флэш алюминий.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K523 PE Диск платиновый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K524 SN Ясень Серфсайд натуральный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K525 SN Ясень Серфсайд светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K526 SN Ясень Серфсайд темный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K527 HU;RW Дуб Гудзон бискотти.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K528 HU;RW Дуб Гудзон кашемир.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K529 HU;RW Дуб Гудзон золотой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K530 HU;RW Дуб Гудзон амаретто.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K531 AD;RW Каштан Арвадонна окаменелый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K532 AD;RW Каштан Арвадонна пламенный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K533 AD;RW Каштан Арвадонна серо-коричневый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K534 AD;RW Каштан Арвадонна угольный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K535 PE Дуб Барокко золотой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K535 RW Дуб Барокко золотой.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K536 PE Дуб Барокко янтарный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K536 RW Дуб Барокко янтарный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K537 PE Дуб Барокко ристретто.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K537 RW Дуб Барокко ристретто.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K538 PH Ароза светло-серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K538 PN Ароза светло-серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K539 PH Ароза темно-серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K539 PN Ароза темно-серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K540 PN Альбус серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K541 PN Тессея серо-бежевый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K542 PN Тессея мокко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K543 SN Дуб Барбера песочный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K544 RW Дуб Сильверджек ореховый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K545 RW Дуб Сильверджек винтаж.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K546 RW Орех Франклин карамель.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K547 RW Орех Франклин табачный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K548 RW Ясень Кала дымчатый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K549 SL Венера песчаный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K550 SL Венера серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K551 SU Олимп Калакатта.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K552 SU Мрамор Айсберг белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K553 SU Галаксус.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K554 HU;RW Дуб Гудзон шоколадный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K594 SU Breccia Vivaldo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K595 SU Pietra Belvedere.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K680 PD Stone Beige.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K680 PD;UM Stone Beige.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K680 UM Stone Beige.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K681 PD Macadamia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K681 UM Macadamia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K682 PD Alpaca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K683 PD Cajun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K683 UM Cajun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K684 PD Black Truffle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K684 UM Black Truffle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K685 PD Steel Blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K686 PD Powder Pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K687 PD Dark Forest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K688 PW Natural Canella Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K689 PW Natural Canella Strata.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K691 PN Almond Granada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K692 PN Cloud Granada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K693 PN Bronze Granada.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K694 PV Silk Primavera Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K695 PV Straw Primavera Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K696 PV Umber Primavera Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K697 PV Cocoa Primavera Oak.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K698 PN Nero Bronzo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K699 PN Calacatta Ambrosio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K703 PN Portobello Elegante.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K704 PN Perlino Sabbia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K705 PN Stonehaven Sand.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K749 LV Babylon Slate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/K750 LV Agra Travertine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW01  Beech Fine.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW02  Beech Country.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW03  Oak Exclusive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW04  Oak Rustic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW07  Beech Country Art.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW08  Oak Rustic Art.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW09  Beech Continuous Lamellas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN_images/SW10  Oak Continuous Lamellas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MIXIN/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MIXIN/mixin_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MIXIN/mixin_save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MIXIN/mixin_scroll.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Адриатика.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Беж Камео.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Бежевый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Белый Жемчуг.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Белый Лотос.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Бетон Пайн светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Бетон Пайн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Бодега Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Бук Бавария Светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Бунратти.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Венге Аруба.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Венге Линум.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Венге Цаво.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Венис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Винтерберг.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Вяз Швейцарский светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Графит.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Греви.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Грейдж.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Апрельский Нордик.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Апрельский Шоколадный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Аризона.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Атланта.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Вотан.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Гарден светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Гарден тёмный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Делано Натуральный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Делано.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Катания.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Маувелла.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Омега светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Омега темный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Патинато.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Самдал.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Сонома 001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Тоскана Дымчатый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Харбор Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Чанкли.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Честерфилд 003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Шамони светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дуб Шамони тёмный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Дымчатый Зеленый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Зейдан.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Капучино.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Кашемир.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Кронберг.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Лево.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Метрополитан.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Оникс.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Пасифай.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Пихта Серебристая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Платина.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Пыльный Розовый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Светло-серый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Серый Дымчатый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Серый Камень.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Серый тёмный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Сливочный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Сосна Скандинавия.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Супер Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Сэнд.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Таксония Медовая.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Таксония Шоколадная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Тауп.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Титан.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Уни Неро.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Файерстоун.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Финдус Бежевый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Цемент светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Цемент тёмный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Юстус.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Ясень Анкор Белый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Ясень Анкор светлый.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Ясень Анкор тёмный.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Ясень Ориноко.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NORDECO/NORDECO_images/Ясмунд.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Альби Полуночно-Синий  5994 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Алюминиевый Блеск  (6гр) К522 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Алюминий (6гр) 0881 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Алюминий 125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Антрацит  0164 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Антрацит (4гр) 0164 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Антрацит 0164 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Антрацит 0164 РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Артвуд Темный К084 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Артвуд светлый K083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Артвуд темный K084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ательер Светлый  4298 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ательер Светлый 4298.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ательер Темный  4299 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ательер Темный 4299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ательер светлый (9 гр) 4298 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Базальтовый  (3гр) 0166 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бежевый (3гр) 0522 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бежевый 0522PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бежевый 205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бежевый 206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Безмолвная Пустыня  (6гр) K514 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белая Древесные поры 236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белая гладкая  2001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белая гладкая 2001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белая шагрень 1655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белая шагрень 201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белоснежный 2011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый (L) двухсторонный 101 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый (L) односторонний 101 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый (XL) двухсторонний 101 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый (М) двухсторонний 101 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый (фасадный) (2гр) 0101 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый (фасадный) (2гр) 0101 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый (фасадный) (2гр) 0101 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый - 6010 HG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Бриллиант  8681 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Бриллиант (4гр) 8681 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Бриллиант (6гр) 8681 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Бриллиант 8681SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Кристалл  2251-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Премиум Гладкая  1001-K01 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Премиум Кристалл  1000-R02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Фасадный 0101 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Фасадный 0101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый Экспо Ud 1605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый жемчуг 8100SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый односторонний 101 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый снег (2гр) 8685 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Белый фон 2250-К01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бензин  0244 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бензин 0244SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Береза (7гр) LD1715 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Береза 1715.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бетонный Камень (10гр) К350 RT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бетонный камень К350.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Блэквуд Сатиновый (9 гр) К022 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Блэквуд Сатиновый К022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Блэквуд Ячменный К021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Боб пайн 250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бодега Светлый (7гр) 5646 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бодега белый 249.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бриллиантовый Синий  0537-R05 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бронзовый Век 8348 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Артизан Перламутровый  К012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Артизан Трюфельный (8гр) К014 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Артизан Трюфельный K014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Артизан Трюфельный К014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Артизан песочный K013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Бавария  5113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Бавария (7гр) 0381 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Бавария (7гр) LD381 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Бавария 381 D.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Бук Бавария светлый 102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге (7гр) 0854 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге 0854.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге Винтаж  7648 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге Луизиана (7гр) 9763 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге Соренто 197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге Цаво (7гр) 3354 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге мали 4122-W05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Венге-бук тирольский 101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Виола 7167SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня (7гр) 0344 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Вайшел 129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Оксворд (7гр) D088 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Оксфорд  4971-W07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Риверсайд Светлая  K077 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Риверсайд Светлая К077.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Риверсайд Темная  K078 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Риверсайд Темная  К078 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Риверсайд Темная (8гр) К078 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня Риверсайд Темная К078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вишня оксфорд 103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вудлайн мокко 149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Аврора Натуральный  K363 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Благородный Темный (8гр) 6597 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Либерти Дымчатый  К018 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Либерти Светлый  К017 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Либерти Серебряный  К019 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Либерти Серебряный (8гр) К019 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Либерти Серебряный К019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Натуральный 5500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Вяз Натуральный Благородный 5500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Натуральный (9 гр) К086 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Натуральный К086 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Натуральный К086.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Светлый  К085 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Темный  К087 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Темный (9 гр) К087 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Темный (9гр) К087 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Гикори Рокфорд Темный К087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Глиняный Серый  (6гр) K096 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Глиняный серый К096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Груша-Кальвадос 109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Джара Госфорт 132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Барбера Песчаный (9 гр) K543 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Белый 181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Белый Крафт  К001 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Бурбон  К082 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Верцаска 225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Винтаж Оксид 5194 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Винтаж Оксид 5194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Горный Светлый  4286-W05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Гранж Колониальный  K354.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Гудзон Бискотто (12гр) K527 HU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Золотой (8гр) К003 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Золотой Крафт (8гр) К003 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Каменный  5527 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Кастелло Коньячный (9гр) К359 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Кастелло Медовый К358 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Кастелло Медовый К358.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Кастелло Серый (9гр) К357 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Кастелло серый К357.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Крафт Белый К001 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Крафт Золотой К003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Крафт Серый К002 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Крафт Серый К002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Крафт белый К001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Крафт золотой К003 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Крафт табачный К004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Лисса (7гр) 8925 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Лисса 8925.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Млечный 104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Млечный U1095.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Молочный (7гр) 8622 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Молочный 130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Молочный 4120-W05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Нагано (8гр) 8431 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Орегон (8гр) 5529 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Приморский Белый  К080 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Приморский Сатиновый (8гр) К081 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Серый Крафт  К002 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Сонома  0107-W07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Сонома (7гр) 3025 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Сонома 138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Сонома Светлый (7гр) 3025 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Сонома Светлый (7гр) 3025 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Сонома светлый 160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Табачный Крафт  K004 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Урбан Кофейный К007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Урбан Янтарный К006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Устричный 185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Устричный Урбан К005 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Феррара (7гр) 8921 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Феррара 8921 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Феррара 8921.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Харбор Золотой (9гр) К361 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Харбор Золотой К361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Эвок Окаменелый (8 гр) К366 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Эвок Прибрежный  К365 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Эвок Прибрежный (8 гр) К365 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Экспресив Бронзовый (8гр) К090 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Экспресив Песочный (8гр) К076 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Экспрессив Бронзовый  К090 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Экспрессив Бронзовый К090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Эндгрейн Необработанный  К105 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Эндгрейн Необработанный (9 гр) К105 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Эндгрейн Элегантный К107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Янтарный 186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб Янтарный Урбан (8гр) К006 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб золотой 183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб каменный 5527.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб кельтик светлый 169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб контори 139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб кофейный 187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб кремона 113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб табачный 184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дуб экспрессив песочный К076.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Дымчатый Зеленый (6гр) K521 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Жара светлая 152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Железный Камень (10гр) К352 RT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зебрано Нюанс  8656 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зебрано Нюанс (8гр) 8656 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зебрано Песочный 229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зебрано Сахара (8гр) 8657 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зеленая Мамба (6гр) 7190 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зеленая Мамба 237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зеленый Оксид 9561 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Земля (100 м) 7184BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Земля 7184BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Зефир (6гр) K513 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Капри Синий  F0121-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Капри Синий 0121BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Капучино  (6гр) 0301 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Капучино  0205- R05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Капучино  0205-R05 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Капучино 0301SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Кашемир  5981 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Кашемир (4гр) 5981 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Кашемир 5981 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Керамический Красный (6гр) K098 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Керамический красный К098SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Клен декорированная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Клен мэдиссон 115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Клен танзай 110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Клён (7гр) 0375 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Клён (7гр) 0375 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Клён Танзай  5704.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Клён Танзай 110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Кобальт Серый 6299 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Коко Бола (8гр) 8995 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Королевский Синий (6гр) 0125 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Королевский синий (100м) 0125 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Королевский синий (200м) 0125 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Королевский синий 0125 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный 0149 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный 211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный Оксид (6гр) 9551 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный Оксид 9551 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный Чили (6гр) 7113 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный фон  1669-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный фон  1669-Н01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Красный чили 7113 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Кремовый (3гр) 7031 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Кремовый 7031ВS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Крослайн Карамель  8362 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Крослайн Латте (8гр) 8361 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Крослайн Латте 8361 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Крослайн Латте 8361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Лаванда  F8536-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Лаванда 8536BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Лазурный  7179.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Лазурный 7179 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Лазурный Голубой (6гр) K517 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Лайм 209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Латте  7166 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Латте 7166 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Лиственница темная 176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Макиато  (3гр) 8533 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Макиато 240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Малиновый (6гр) K100 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Малиновый К100 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Махагон 224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Металлик 108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Мидия 5982.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Миндаль (3гр) 0564 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Миндаль 0564 РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Морское Дерево Винтаж  К015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Морское Дерево Винтаж К015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Морское Дерево Карбон (8гр) К016 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Морское Дерево Карбон Galoplast К016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Морское Дерево Карбон К016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Морской Синий  (6гр) 8984 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Морской синий 8984 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Мраморный Синий  F5515-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Мраморный Синий (6гр) 5515 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Мраморный Синий 5515 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Мышиный Серый  (6гр) K519 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Мята  F7180-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Мята 7180 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ноче ногаро светлый 145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Океан (6гр) 0245 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Океан 0245 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Океан 0245SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ольха (7гр) 1912 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ольха 195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ольха Горская (7гр) 1912 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орегон 5529.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех 0729.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Гварнери (7гр) 9455 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Лион Светлый 9614.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Мария Луиза (7гр) 9490 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Мария Луиза (7гр) LD9490 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Мария Луизия -Plast (100м) 107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Мария Луизия 107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Опера 0481.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Светлый 188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Светлый Селект  K008 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Светлый Селект (8гр) К008 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Селект Каминный  K020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Селект Каминный (8гр) К020 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Селект Каминный K020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Селект светлый  K008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Селект светлый K008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Селект темный K009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Темный (7гр) 1925 SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Темный 189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Темный Селект  К009 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Темный Селект (8гр) К009 PW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Тьеполо 8953.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Экко (7гр) 9459 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Экко 247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Экко 9459.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех Экко-Пегас 146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех балтимор 150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех гварнери 105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Орех экко 111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Пастельный Зеленый (6гр) 7063 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Пельтро  К108 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Пельтро К108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Перламутр 269.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Песочный  0515-Н01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Пикар 253.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Пламя 7176BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Платина (6гр) 0859 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Платиновый Диск (6гр) К523 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Прибрежный Синий (6гр) K518 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Пряный Красный (6гр) K515 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Пудровый  К512 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Роза  F8534-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Роза 8534BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сатин (6гр) 7045 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сатин (6гр) 7045 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сатин 7045 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сатин мм двухсторонняя (6гр) 7045 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Светло-серый -Plast 202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Светло-серый 204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Северное Дерево Светлое 8508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Северное Дерево Темное 8509.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый Графит  0162 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый Графит 0162PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый Камень (3гр) 0112 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый Кристалл  2104-R05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый Манхэттен 239.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый Шифер 0171PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый графит (4гр) 0162 РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый камень 0112 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый кристалл 2104-R05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый шифер  1171 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Серый шифер (3гр) 0171 РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Синий голубой 213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Синий фон 1748-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Скандинавское Дерево Белое К088.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Скандинавское Дерево Серое К089.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Славония 5501.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Слоновая Кость  0514-R02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Слоновая Кость 0514 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Слоновая Кость 0514PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сосна Белая Лофт  К010 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сосна Белая Лофт (8гр) К010 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сосна белая 190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Стальной Серый  (3гр) 1700 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Стальной серый 1700РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Сумеречный голубой K097SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Темно-серый 241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Темный Изумруд (6гр) K520 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Темный синий (6гр) K099 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Темный синий К099 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Темный шоколад (6гр) 7181 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Титан  8973-R02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Титан 114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Тоффи  (6гр) K516 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Угольный Камень (10гр) К353 RT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Файнлайн Крем  8547 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Холодный Серый (6гр) 0191 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Холодный Серый 0191 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Черный (4гр) 0190 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Черный 0190 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Черный 203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Черный Графит  0961-Н01 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Черный Кристалл  2001-Н01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Черный двухсторонний 190 РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Шелковый Камень  К349 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Шелковый Камень (10гр) К349 RT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Шиншила серая  0197 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Шиншила серая 0197 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Яблоня Локарно (7гр) LD1972 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Яблоня Локарно 1972.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень Прибрежный Железный (9 гр) К526 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень Прибрежный Светлый (9 гр) К525 SN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень Пряный Табак (9 гр) К548 RW.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень Таормина (8гр) 8503 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень Шимо Светлый (7гр) 3356 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень Шимо Темный (7гр) 3357 PR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень шимо светлый 116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень шимо темный  3128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/Ясень шимо темный 118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/нешлифованная  РБ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI/XXI_images/нешлифованная.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Альби Полуночно-Синий  5994 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Алюминий 125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Антрацит  0164 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Антрацит 0164 РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Артвуд Темный К084 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Артвуд светлый K083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Артвуд темный K084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ательер Светлый  4298 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ательер Светлый 4298.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ательер Темный  4299 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ательер Темный 4299.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бежевый 0522PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бежевый 205.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бежевый 206.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белая Древесные поры 236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белая гладкая  2001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белая гладкая 2001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белая шагрень 1655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белая шагрень 201.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белоснежный 2011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый - 6010 HG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый Бриллиант  8681 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый Бриллиант 8681SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый Кристалл  2251-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый Премиум Гладкая  1001-K01 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый Премиум Кристалл  1000-R02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый Фасадный 0101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый Экспо Ud 1605.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый жемчуг 8100SM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Белый фон 2250-К01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бензин  0244 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бензин 0244SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Береза 1715.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бетонный камень К350.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Блэквуд Сатиновый К022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Блэквуд Ячменный К021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Боб пайн 250.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бодега белый 249.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бриллиантовый Синий  0537-R05 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бронзовый Век 8348 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бук Артизан Перламутровый  К012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бук Артизан Трюфельный K014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бук Артизан Трюфельный К014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бук Артизан песочный K013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бук Бавария  5113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Бук Бавария светлый 102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Венге 0854.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Венге Винтаж  7648 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Венге Соренто 197.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Венге мали 4122-W05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Венге-бук тирольский 101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Виола 7167SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня Вайшел 129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня Оксфорд  4971-W07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня Риверсайд Светлая  K077 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня Риверсайд Светлая К077.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня Риверсайд Темная  K078 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня Риверсайд Темная  К078 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня Риверсайд Темная К078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вишня оксфорд 103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вудлайн мокко 149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вяз Аврора Натуральный  K363 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вяз Либерти Дымчатый  К018 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вяз Либерти Светлый  К017 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вяз Либерти Серебряный  К019 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вяз Либерти Серебряный К019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вяз Натуральный 5500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Вяз Натуральный Благородный 5500.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Гикори Рокфорд Натуральный К086 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Гикори Рокфорд Натуральный К086.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Гикори Рокфорд Светлый  К085 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Гикори Рокфорд Темный  К087 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Гикори Рокфорд Темный К087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Глиняный серый К096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Груша-Кальвадос 109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Джара Госфорт 132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Белый 181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Белый Крафт  К001 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Бурбон  К082 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Верцаска 225.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Винтаж Оксид 5194 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Винтаж Оксид 5194.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Горный Светлый  4286-W05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Гранж Колониальный  K354.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Каменный  5527 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Кастелло Медовый К358 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Кастелло Медовый К358.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Кастелло серый К357.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Крафт Серый К002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Крафт белый К001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Крафт золотой К003 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Крафт золотой К003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Крафт табачный К004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Лисса 8925.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Млечный 104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Млечный U1095.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Молочный 130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Молочный 4120-W05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Приморский Белый  К080 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Серый Крафт  К002 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Сонома  0107-W07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Сонома 138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Сонома светлый 160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Табачный Крафт  K004 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Урбан Кофейный К007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Урбан Янтарный К006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Устричный 185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Устричный Урбан К005 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Феррара 8921 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Феррара 8921.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Харбор Золотой К361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Эвок Прибрежный  К365 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Экспрессив Бронзовый  К090 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Экспрессив Бронзовый К090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Эндгрейн Необработанный  К105 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Эндгрейн Элегантный К107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб Янтарный 186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб золотой 183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб каменный 5527.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб кельтик светлый 169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб контори 139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб кофейный 187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб кремона 113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб табачный 184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Дуб экспрессив песочный К076.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Жара светлая 152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Зебрано Нюанс  8656 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Зебрано Песочный 229.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Зеленая Мамба 237.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Зеленый Оксид 9561 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Земля (100 м) 7184BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Земля 7184BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Капри Синий  F0121-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Капри Синий 0121BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Капучино  0205- R05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Капучино  0205-R05 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Капучино 0301SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Кашемир  5981 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Кашемир 5981 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Керамический красный К098SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Клен мэдиссон 115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Клен танзай 110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Клён Танзай  5704.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Клён Танзай 110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Кобальт Серый 6299 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Королевский синий (100м) 0125 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Королевский синий (200м) 0125 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Королевский синий 0125 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Красный 0149 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Красный 211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Красный Оксид 9551 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Красный фон  1669-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Красный фон  1669-Н01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Красный чили 7113 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Кремовый 7031ВS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Крослайн Карамель  8362 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Крослайн Латте 8361 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Крослайн Латте 8361.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Лаванда  F8536-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Лаванда 8536BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Лазурный  7179.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Лазурный 7179 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Лайм 209.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Латте  7166 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Латте 7166 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Лиственница темная 176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Макиато 240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Малиновый К100 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Махагон 224.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Металлик 108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Мидия 5982.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Миндаль 0564 РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Морское Дерево Винтаж  К015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Морское Дерево Винтаж К015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Морское Дерево Карбон Galoplast К016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Морское Дерево Карбон К016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Морской синий 8984 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Мраморный Синий  F5515-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Мраморный Синий 5515 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Мята  F7180-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Мята 7180 BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ноче ногаро светлый 145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Океан 0245 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Океан 0245SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ольха 195.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орегон 5529.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех 0729.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Лион Светлый 9614.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Мария Луизия -Plast (100м) 107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Мария Луизия 107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Опера 0481.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Светлый 188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Светлый Селект  K008 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Селект Каминный  K020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Селект Каминный K020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Селект светлый  K008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Селект светлый K008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Селект темный K009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Темный 189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Темный Селект  К009 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Тьеполо 8953.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Экко 247.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех Экко-Пегас 146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех балтимор 150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех гварнери 105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Орех экко 111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Пельтро  К108 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Пельтро К108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Перламутр 269.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Песочный  0515-Н01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Пикар 253.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Пламя 7176BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Пудровый  К512 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Роза  F8534-R05 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Роза 8534BS.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Сатин 7045 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Светло-серый -Plast 202.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Светло-серый 204.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Северное Дерево Светлое 8508.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Северное Дерево Темное 8509.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый Графит  0162 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый Графит 0162PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый Кристалл  2104-R05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый Манхэттен 239.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый Шифер 0171PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый камень 0112 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый кристалл 2104-R05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Серый шифер  1171 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Синий голубой 213.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Синий фон 1748-H01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Скандинавское Дерево Белое К088.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Скандинавское Дерево Серое К089.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Славония 5501.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Слоновая Кость  0514-R02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Слоновая Кость 0514 PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Слоновая Кость 0514PE.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Сосна Белая Лофт  К010 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Сосна белая 190.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Стальной серый 1700РЕ.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Сумеречный голубой K097SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Темно-серый 241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Темный синий К099 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Титан  8973-R02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Титан 114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Файнлайн Крем  8547 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Черный 203.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Черный Графит  0961-Н01 EG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Черный Кристалл  2001-Н01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Шелковый Камень  К349 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Шиншила серая  0197 KR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Шиншила серая 0197 SU.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ясень шимо светлый 116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ясень шимо темный  3128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/XXI_images/Ясень шимо темный 118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/pars_hdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/pars_ldsp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/pars_lmdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/XXI/parse_edge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Danilaa13/Texture-Pictures.git",
+    "accountId": "ae56a9bf-fecc-4281-8680-d6ad0dc45f77"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2viGzQgBtUb6tBdoDO1Lcujynlf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1].executor&quot;: &quot;Run&quot;,
+    &quot;Python.EGGER.executor&quot;: &quot;Run&quot;,
+    &quot;Python.KRONOSPAN.executor&quot;: &quot;Run&quot;,
+    &quot;Python.XXI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mixin_save.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\pythonProjectsForUniversity\WORK\PARS_PICTURES\XXI" />
+      <recent name="E:\pythonProjectsForUniversity\WORK\PARS_PICTURES\EGGER" />
+      <recent name="E:\pythonProjectsForUniversity\WORK\PARS_PICTURES\MIXIN" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PARS_PICTURES" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="670ee31b-7591-4c94-9994-0abd9d956652" name="Changes" comment="" />
+      <created>1744620743167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744620743167</updated>
+      <workItem from="1744620744514" duration="26766000" />
+      <workItem from="1744651321170" duration="4207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$mixin_save.coverage" NAME="mixin_save Coverage Results" MODIFIED="1744645816403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MIXIN" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$main.coverage" NAME="main Coverage Results" MODIFIED="1744646537261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$EGGER.coverage" NAME="EGGER Coverage Results" MODIFIED="1744625059310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$1.coverage" NAME="1 Coverage Results" MODIFIED="1744644570241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$KRONOSPAN.coverage" NAME="KRONOSPAN Coverage Results" MODIFIED="1744643595100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KRONOSPAN" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$XXI.coverage" NAME="XXI Coverage Results" MODIFIED="1744654609416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XXI" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$1_.coverage" NAME="1] Coverage Results" MODIFIED="1744639096828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
