@@ -50,6 +50,6 @@ def parse_lmdf(title):
     name = re.sub(size_pattern, '', name)  # Убираем размеры
     name = re.sub(r'\s+', ' ', name).strip()  # Убираем лишние пробелы
 
-    full_name = f'{name} {code} {structure}'.strip()
+    full_name = f'{code} {name}'.strip()
 
     return full_name

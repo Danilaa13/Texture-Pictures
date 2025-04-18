@@ -96,7 +96,7 @@ async def main():
 
                     await scroll_until_show_more(page)
                     products = await collect_products(page)
-                    await save_images(products, folder="XXI/XXI_images")
+                    await save_images(products, folder="E:\\pythonProjectsForUniversity\\WORK\\PARS_PICTURES\\KRONOSPAN\\KRONOSPAN_images_1")# <- указать путь / сохранения папки с картинками и название
 
                     print(f"🔍 Найдено товаров в категории {link}: {len(products)}")
                     total_count += len(products)
@@ -104,9 +104,9 @@ async def main():
             try:
                 await page.goto(BASE_URL + '/catalog/kromka_pvkh/', timeout=60000)
                 await page.wait_for_load_state('load')
-                await scroll_until_show_more(page)
+                # await scroll_until_show_more(page)
                 products = await collect_products(page)
-                await save_images(products, folder="XXI_images")# <- указать путь / сохранения папки с картинками и название
+                # await save_images(products, folder="XXI_кромка")# <- указать путь / сохранения папки с картинками и название
 
                 print(f"🔍 Найдено товаров в категории кромка ПВХ: {len(products)}")
                 total_count += len(products)

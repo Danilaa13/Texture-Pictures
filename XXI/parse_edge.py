@@ -77,6 +77,6 @@ def parse_edge_band(title):
     name = re.sub(r'\bмм\b', '', name).strip()
     name = name.rstrip(',')
 
-    full_name = f'{name} {code} {structure}'.strip()
+    full_name = f'{code} {name}'.strip()
 
     return full_name

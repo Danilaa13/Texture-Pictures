@@ -63,6 +63,6 @@ def parse_hdf(title):
     # Убираем одиночные символы, такие как "К" и "мм"
     name = re.sub(r'\bК\b|\bмм\b', '', name).strip()  # Убираем "К" и "мм"
 
-    full_name = f'{name} {code} {structure}'.strip()
+    full_name = f'{code} {name}'.strip()
 
     return full_name

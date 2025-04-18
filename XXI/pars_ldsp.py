@@ -46,6 +46,6 @@ def parse_ldsp(title):
     name = re.sub(r'\s+', ' ', name).strip()  # Убираем двойные пробелы
     name = re.sub(r'\(\s*\)', '', name).strip()  # Убираем пустые скобки
 
-    full_name = f'{name} {code} {structure}'.strip()
+    full_name = f'{code} {name}'.strip()
 
     return full_name

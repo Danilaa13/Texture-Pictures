@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670ee31b-7591-4c94-9994-0abd9d956652" name="Changes" comment="'Удаление папок с фотографиями'" />
+    <list default="true" id="670ee31b-7591-4c94-9994-0abd9d956652" name="Changes" comment="'Добавление файла с библиотеками'">
+      <change afterPath="$PROJECT_DIR$/SERVER/Excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SERVER/SERVER.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SERVER/pars_title_products.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EGGER/EGGER.py" beforeDir="false" afterPath="$PROJECT_DIR$/EGGER/EGGER.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN.py" beforeDir="false" afterPath="$PROJECT_DIR$/KRONOSPAN/KRONOSPAN.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XXI/XXI.py" beforeDir="false" afterPath="$PROJECT_DIR$/XXI/XXI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XXI/pars_hdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/XXI/pars_hdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XXI/pars_ldsp.py" beforeDir="false" afterPath="$PROJECT_DIR$/XXI/pars_ldsp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XXI/pars_lmdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/XXI/pars_lmdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XXI/parse_edge.py" beforeDir="false" afterPath="$PROJECT_DIR$/XXI/parse_edge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +34,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Danilaa13"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Danilaa13&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Danilaa13/Texture-Pictures.git",
-    "accountId": "ae56a9bf-fecc-4281-8680-d6ad0dc45f77"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Danilaa13/Texture-Pictures.git&quot;,
+    &quot;accountId&quot;: &quot;ae56a9bf-fecc-4281-8680-d6ad0dc45f77&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -41,26 +55,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1].executor&quot;: &quot;Run&quot;,
-    &quot;Python.EGGER.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KRONOSPAN.executor&quot;: &quot;Run&quot;,
-    &quot;Python.XXI.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.mixin_save.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Python.1.executor": "Run",
+    "Python.1].executor": "Run",
+    "Python.EGGER.executor": "Run",
+    "Python.Excel.executor": "Run",
+    "Python.KRONOSPAN.executor": "Run",
+    "Python.SERVER.executor": "Run",
+    "Python.XXI.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mixin_save.executor": "Run",
+    "Python.pars_ldsp.executor": "Run",
+    "Python.pars_lmdf.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\pythonProjectsForUniversity\WORK\PARS_PICTURES\XXI" />
@@ -110,7 +128,24 @@
       <option name="presentableId" value="Default" />
       <updated>1744620743167</updated>
       <workItem from="1744620744514" duration="26766000" />
-      <workItem from="1744651321170" duration="4829000" />
+      <workItem from="1744651321170" duration="5464000" />
+      <workItem from="1744657092564" duration="1180000" />
+      <workItem from="1744660542978" duration="1625000" />
+      <workItem from="1744704331409" duration="1695000" />
+      <workItem from="1744712715898" duration="2120000" />
+      <workItem from="1744715351703" duration="113000" />
+      <workItem from="1744716206084" duration="2693000" />
+      <workItem from="1744729735611" duration="459000" />
+      <workItem from="1744731846985" duration="6000" />
+      <workItem from="1744731961604" duration="138000" />
+      <workItem from="1744732172655" duration="6000" />
+      <workItem from="1744795530636" duration="8304000" />
+      <workItem from="1744811766131" duration="11125000" />
+      <workItem from="1744877616591" duration="6515000" />
+      <workItem from="1744888452309" duration="7186000" />
+      <workItem from="1744910462580" duration="3314000" />
+      <workItem from="1744920221915" duration="2000" />
+      <workItem from="1744970644944" duration="5411000" />
     </task>
     <task id="LOCAL-00001" summary="'Удаление папок с фотографиями'">
       <option name="closed" value="true" />
@@ -120,24 +155,48 @@
       <option name="project" value="LOCAL" />
       <updated>1744656158124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="'Добавление файла с библиотеками'">
+      <option name="closed" value="true" />
+      <created>1744656411035</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744656411035</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="первый коммит" />
     <MESSAGE value="'Удаление папок с фотографиями'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'Удаление папок с фотографиями'" />
+    <MESSAGE value="'Добавление файла с библиотеками'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'Добавление файла с библиотеками'" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PARS_PICTURES$mixin_save.coverage" NAME="mixin_save Coverage Results" MODIFIED="1744645816403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MIXIN" />
-    <SUITE FILE_PATH="coverage/PARS_PICTURES$main.coverage" NAME="main Coverage Results" MODIFIED="1744646537261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$pars_lmdf.coverage" NAME="pars_lmdf Coverage Results" MODIFIED="1744717287691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XXI" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$Excel.coverage" NAME="Excel Coverage Results" MODIFIED="1744973377359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SERVER" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$main.coverage" NAME="main Coverage Results" MODIFIED="1744975117126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$pars_ldsp.coverage" NAME="pars_ldsp Coverage Results" MODIFIED="1744717096929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XXI" />
     <SUITE FILE_PATH="coverage/PARS_PICTURES$EGGER.coverage" NAME="EGGER Coverage Results" MODIFIED="1744625059310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PARS_PICTURES$1.coverage" NAME="1 Coverage Results" MODIFIED="1744644570241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PARS_PICTURES$KRONOSPAN.coverage" NAME="KRONOSPAN Coverage Results" MODIFIED="1744643595100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/KRONOSPAN" />
-    <SUITE FILE_PATH="coverage/PARS_PICTURES$XXI.coverage" NAME="XXI Coverage Results" MODIFIED="1744654609416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XXI" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$XXI.coverage" NAME="XXI Coverage Results" MODIFIED="1744717312095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XXI" />
     <SUITE FILE_PATH="coverage/PARS_PICTURES$1_.coverage" NAME="1] Coverage Results" MODIFIED="1744639096828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PARS_PICTURES$SERVER.coverage" NAME="SERVER Coverage Results" MODIFIED="1744806479633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/SERVER" />
   </component>
 </project>

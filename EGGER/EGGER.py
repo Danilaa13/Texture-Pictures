@@ -28,8 +28,9 @@ async def egger_download_images_from_page(url: str) -> dict[str: str]:
 
             decor_title = await decor_title_el.inner_text()
             decor_number = await decor_number_el.inner_text()
+            code = decor_number.split()[0]
 
-            full_name = f"{decor_title} {decor_number}".strip()
+            full_name = f"{code} {decor_title}".strip()
 
             img = await item.query_selector('img')
             if img:

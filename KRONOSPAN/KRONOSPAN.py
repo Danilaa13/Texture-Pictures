@@ -54,7 +54,7 @@ async def kronospan_download_images_from_page(url: str) -> dict[str: str]:
                     textures = [await tex.inner_text() for tex in texture_els]
 
                     texture_str = ''.join(textures)
-                    full_name = f"{decor_number} {texture_str} {decor_title}".strip()
+                    full_name = f"{decor_number} {decor_title}".strip()
 
                     img = await decor.query_selector('img')
                     if img:
